@@ -4,10 +4,12 @@ gorm bug report.
 
 ## steps
 
-1. clone this repository to your PC.
+1. clone https://github.com/kvii/gormt.git
 2. cd gormt
-3. go run .
-4. Remove go.work file and try again.
+3. git clone https://github.com/kvii/gorm.git gorm
+4. cd gormt
+5. go run .
+6. Remove go.work file and try again.
 
 You can see some log like this.
 
